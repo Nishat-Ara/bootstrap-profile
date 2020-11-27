@@ -1,0 +1,25 @@
+/*---------------------------
+global css for all template-----
+---------------------------*/
+	section{
+				padding-top:100px;
+				padding-bottom:75px;
+			}
+			/*----Global-----*/
+			.bg-transparent-white{
+				background-color:white;
+			}
+			
+			.bg-transparent-dark{
+				background-color:#00000045;
+			}
+			
+			.top-auto{
+				top:auto;
+			}
+			.card-hover-visible{
+				visibility:hidden;
+			}
+			.card:hover	.card-hover-visible{
+				visibility:visible;
+			}
